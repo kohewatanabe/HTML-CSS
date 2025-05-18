@@ -1,0 +1,1 @@
+html, body { height: 100%; }body {  margin: 0;  background: url(images/wall.png) no-repeat bottom / 100% auto, url(images/plane.png) no-repeat 50% 10% / auto, url(images/sky.jpg) no-repeat center / cover #00bfff;}

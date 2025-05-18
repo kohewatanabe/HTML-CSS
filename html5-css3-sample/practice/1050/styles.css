@@ -1,0 +1,1 @@
+body {  margin: 0;}h1 {  margin: 0 auto;  padding: 0.5em;  box-sizing: border-box;  border: 20px solid #ddd;  color: #fff;  background-color: #936;}@media screen {    /* 1000px以上のとき */  h1 {  }  h1::after {  }}@media screen {    /* 999px以下のとき */  h1 {  }  h1::after {  }}
