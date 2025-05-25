@@ -1,0 +1,14 @@
+p:nth-child(odd) {
+    color: white;
+    background-color: gray;
+}
+
+p:nth-child(even) {
+    color: whilte;
+    background-color: silver;
+}
+
+p:nth-child(6) {
+    color: white;
+    background-color: red;
+}
