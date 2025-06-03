@@ -1,0 +1,10 @@
+html, body {
+    margin: 0;
+    height: 100%; 
+}
+
+body {
+    background-image: url(images/cloud.jpg);
+    background-repeat: no-repeat;
+    background-position: left left;
+}
