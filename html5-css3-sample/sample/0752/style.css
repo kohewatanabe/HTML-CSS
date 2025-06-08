@@ -1,0 +1,35 @@
+#page {
+    margin: 0 auto;
+    width: 400px;
+}
+
+header, footer {
+    text-align: center;
+    color: #fff;
+    background: #bbb;
+}
+
+main {
+    color: #888;
+    background: #eee;
+    float: right;
+    width: 200px;
+}
+
+#sub1 {
+    color: #fff;
+    background: #390;
+    float: left;
+    width: 100px;
+}
+
+#sub2 {
+    float: left;
+    width: 100px;
+    color: #fff;
+    background: #fc0;
+}
+
+footer {
+    clear: both;
+}
